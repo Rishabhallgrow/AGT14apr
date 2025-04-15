@@ -56,3 +56,4 @@ codeunit 50115 "saleslinetrackingvalidateflow"
         end;
     end;
 }
+
